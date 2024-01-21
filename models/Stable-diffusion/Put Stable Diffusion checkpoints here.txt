@@ -1,0 +1,1 @@
+https://huggingface.co/swl-models/myself8.0/resolve/main/myself8.0.safetensors
